@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Roblox 2010 style
-// @namespace 
+// @namespace https://raw.githubusercontent.com/Cakedadev/2010RobloxTheme/main/TheScript.js
 // @version 1.2.0
 // @description Makes ROBLOX.com look like it did in 2010
 // @author CakeDaDev
