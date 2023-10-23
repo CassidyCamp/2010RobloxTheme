@@ -6,3 +6,13 @@ A Tampermonkey script created to improve the theme on the site, enabling users t
 - Open Tampermonkey in your browser and click the Add Script tab (icon with a plus symbol)
 - Paste the source into the script window and hit save.
 - Voila!
+/*
+**REQUIRED!!!!: BTROBLOX EXTENSION**
+*REQUIRED settings: 
+Navigation: Keep sidebar open (ON) | modify buttons ->> Show home, messages, friends, money. EVERYTHING ELSE DISABLED |
+Home: Show friend Usernames, DO NOT Show more friends
+Profile: Embed Inventory, Show last online
+Groups: Check every box in "group redesign options"
+Game Details: Add Server List Pager
+Inventory: Inventory Ttools
+WIP: Check all*
